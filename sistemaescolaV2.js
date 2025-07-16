@@ -155,7 +155,7 @@ console.log('Curso inválido.');
 break;
 
 case '7':
-// sair do sistema
+// saimdo do sistema
 console.log('Saindo do sistema...');
 break;
 

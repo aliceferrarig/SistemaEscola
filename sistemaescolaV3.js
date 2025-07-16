@@ -76,7 +76,7 @@ function visualizarInformacoes() {
   }
 }
 
-function matricularAlunoEmCurso() {
+function matriculandoAlunoEmCurso() {
   // Verifica se há alunos e cursos cadastrados para poder realizar a matrícula
   if (alunos.length === 0 || cursos.length === 0) {
     console.log(
@@ -184,7 +184,7 @@ visualizarInformacoes();
 break;
 
 case '6':
-matricularAlunoEmCurso();
+matriculandoAlunoEmCurso();
 break;
 
 case '7':
